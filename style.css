@@ -181,5 +181,24 @@ color:#fff;
 		position: static;
 		transform: rotate(0);
 	}
+	.price-text
+	{
+		text-align: center;
+		font-weight: lighter;
+		font-size: 1.3rem;
+	}
 
 }
+/*@media (max-width:400px)
+{
+	.price-text
+	{
+		/*text-align: center;*/
+	/*	font-size: 1rem;
+	}
+	.a
+	{
+		text-align: center;
+		font-size: 1rem;
+	}
+}*/
